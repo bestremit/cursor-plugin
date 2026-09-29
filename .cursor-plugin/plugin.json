@@ -1,0 +1,24 @@
+{
+  "name": "bestremit",
+  "version": "1.0.0",
+  "description": "Compare international money transfer apps, exchange rates, fees, and estimated recipient amounts before sending money abroad.",
+  "author": {
+    "name": "BestRemit",
+    "email": "support@bestremit.app",
+    "url": "https://bestremit.app"
+  },
+  "homepage": "https://bestremit.app",
+  "repository": "https://github.com/bestremit/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bestremit",
+    "remittance-comparison",
+    "mcp",
+    "remittance",
+    "money-transfer",
+    "send-money",
+    "foreign-exchange",
+    "finance"
+  ],
+  "logo": "logo.png"
+}
